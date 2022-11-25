@@ -1,0 +1,4 @@
+[submodule "airsrl/huroos_web"]
+	path = airsrl/huroos_web
+	url = git@github.com:airsrl/huroos_web.git
+	branch = 14.0
